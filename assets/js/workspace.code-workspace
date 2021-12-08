@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Les données/exercice1"
+		},
+		{
+			"path": "../../../../Les données/tmmdb-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "exercice1"
+	}
+}
